@@ -1,0 +1,1 @@
+var json_qgislatihan_1 = {"type":"FeatureCollection","name":"qgislatihan_1","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1"},"geometry":{"type":"Point","coordinates":[106.462517311432094,-6.191466100647623]}}]}
